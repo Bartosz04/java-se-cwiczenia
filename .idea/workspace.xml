@@ -2,12 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a24e457-7fc1-48da-ae90-864150d0ce37" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ObjectProjekt/ObjectProjekt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectProjekt/src/Diamond.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectProjekt/src/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectProjekt/src/OOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectProjekt/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ObjectProjekt/Diamond.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ObjectProjekt/ExDziedziczenie/Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ObjectProjekt/ExDziedziczenie/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ObjectProjekt/ExDziedziczenie/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ObjectProjekt/ExDziedziczenie/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ObjectProjekt/ExDziedziczenie/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ObjectProjekt/Figure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ObjectProjekt/OOP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/ObjectProjekt/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Zadania12.11.18/Ex4.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadania12.11.18/src/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania12.11.18/src/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadania12.11.18/src/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania12.11.18/src/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zadania12.11.18/src/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania12.11.18/src/Ex3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Zadania12.11.18/src/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Zadania12.11.18/src/Ex4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Zadania12.11.18/Ex3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Zadania12.11.18/Ex3.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,33 +40,33 @@
         <counts>
           <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="45" />
+          <entry key="java" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="45" />
+          <entry key="JAVA" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="12641" />
+          <entry key="java" value="16316" />
           <entry key="txt" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="12641" />
+          <entry key="JAVA" value="16316" />
           <entry key="PLAIN_TEXT" value="51" />
         </counts>
       </usages-collector>
@@ -62,101 +80,147 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workshop/src/Ex6.java">
+        <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/Diamond.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+            <state relative-caret-position="210">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#80#81#0" expanded="true" />
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#263#264#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workshop/src/Ex5.java">
+        <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/OOP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+            <state relative-caret-position="55">
+              <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Zadania12.11.18/src/Ex1.java">
+        <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Figure.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="51" />
+            <state relative-caret-position="180">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding>
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#206#207#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Zadania12.11.18/src/Ex2.java">
+        <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="51" />
+            <state relative-caret-position="255">
+              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#318#319#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Zadania12.11.18/src/Ex3.java">
+        <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Square.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="615">
+              <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Zadania12.11.18/src/Ex4.java">
+        <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="585">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workshop/src/Ex2.java">
+        <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="58" lean-forward="true" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+            <state relative-caret-position="210">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding>
-                <element signature="e#276#277#0" expanded="true" />
-                <element signature="e#330#331#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workshop/src/ExHome1.java">
+        <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/Figure.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="46" />
+            <state relative-caret-position="120">
+              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#225#226#0" expanded="true" />
+                <element signature="e#83#84#0" expanded="true" />
+                <element signature="e#111#112#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/exercise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/workshop/src/Ex4.java">
+        <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#173#174#0" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#339#340#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#658#659#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Zadania12.11.18/src/Ex4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -201,6 +265,17 @@
         <option value="$PROJECT_DIR$/Zadania12.11.18/src/Ex1.java" />
         <option value="$PROJECT_DIR$/Zadania12.11.18/src/Ex2.java" />
         <option value="$PROJECT_DIR$/Zadania12.11.18/src/Ex3.java" />
+        <option value="$PROJECT_DIR$/Zadania12.11.18/src/Ex4.java" />
+        <option value="$PROJECT_DIR$/ObjectProjekt/src/Circle.java" />
+        <option value="$PROJECT_DIR$/ObjectProjekt/src/Rectangle.java" />
+        <option value="$PROJECT_DIR$/ObjectProjekt/src/Figure.java" />
+        <option value="$PROJECT_DIR$/ObjectProjekt/src/Diamond.java" />
+        <option value="$PROJECT_DIR$/ObjectProjekt/src/OOP.java" />
+        <option value="$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Rectangle.java" />
+        <option value="$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Square.java" />
+        <option value="$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Triangle.java" />
+        <option value="$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Figure.java" />
+        <option value="$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Test.java" />
       </list>
     </option>
   </component>
@@ -216,13 +291,14 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -233,41 +309,33 @@
             <path>
               <item name="java-se-cwiczenia" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-se-cwiczenia" type="462c0819:PsiDirectoryNode" />
+              <item name="ObjectProjekt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-se-cwiczenia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-se-cwiczenia" type="462c0819:PsiDirectoryNode" />
+              <item name="ObjectProjekt" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-se-cwiczenia" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-se-cwiczenia" type="462c0819:PsiDirectoryNode" />
-              <item name="workshop" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-se-cwiczenia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-se-cwiczenia" type="462c0819:PsiDirectoryNode" />
-              <item name="workshop" type="462c0819:PsiDirectoryNode" />
+              <item name="ObjectProjekt" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-se-cwiczenia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-se-cwiczenia" type="462c0819:PsiDirectoryNode" />
-              <item name="Zadania12.11.18" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-se-cwiczenia" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-se-cwiczenia" type="462c0819:PsiDirectoryNode" />
-              <item name="Zadania12.11.18" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ExDziedziczenie" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542038427117" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542119430674" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
@@ -284,7 +352,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex3">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1" />
       <module name="Zadania12.11.18" />
@@ -306,34 +374,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex6" />
-      <module name="workshop" />
+    <configuration name="OOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP" />
+      <module name="ObjectProjekt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExHome1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExHome1" />
-      <module name="workshop" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExDziedziczenie.Test" />
+      <module name="ObjectProjekt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExDziedziczenie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ex6" />
-      <item itemvalue="Application.ExHome1" />
       <item itemvalue="Application.Ex1" />
       <item itemvalue="Application.Ex2" />
       <item itemvalue="Application.Ex3" />
+      <item itemvalue="Application.OOP" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.OOP" />
         <item itemvalue="Application.Ex3" />
         <item itemvalue="Application.Ex2" />
         <item itemvalue="Application.Ex1" />
-        <item itemvalue="Application.Ex6" />
-        <item itemvalue="Application.ExHome1" />
       </list>
     </recent_temporary>
   </component>
@@ -352,6 +426,7 @@
       <workItem from="1541663711751" duration="24294000" />
       <workItem from="1541750702514" duration="16977000" />
       <workItem from="1542028870610" duration="9106000" />
+      <workItem from="1542095858097" duration="19250000" />
     </task>
     <task id="LOCAL-00001" summary="Dodanie ExHome1">
       <created>1541759066719</created>
@@ -371,7 +446,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76108000" />
+    <option name="totallyTimeSpent" value="95358000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -385,7 +460,7 @@
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18890075" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19103523" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -395,7 +470,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32983193" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32142857" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32914045" />
@@ -527,45 +602,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/workshop/src/Ex4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/workshop/src/ExHome1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/workshop/src/Ex2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="58" lean-forward="true" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
-          <folding>
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/exercise.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/workshop/src/Ex6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        <state relative-caret-position="525">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -579,17 +619,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Zadania12.11.18/src/Ex1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Zadania12.11.18/src/Ex2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="51" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="51" />
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop/src/Ex2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="58" selection-start-line="6" selection-start-column="58" selection-end-line="6" selection-end-column="58" />
+          <folding>
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop/src/ExHome1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exercise.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workshop/src/Ex4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Zadania12.11.18/src/Ex1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="51" />
         </state>
       </provider>
     </entry>
@@ -602,8 +677,144 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Zadania12.11.18/src/Ex4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/Circle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/Figure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#111#112#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/OOP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="5" column="55" lean-forward="true" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="99" column="26" selection-start-line="99" selection-start-column="26" selection-end-line="99" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Square.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="5" lean-forward="true" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Figure.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/Diamond.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <element signature="e#80#81#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
