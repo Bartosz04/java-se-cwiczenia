@@ -13,7 +13,7 @@
     <session id="-1765109420">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.8" value="1" />
@@ -130,7 +130,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
+            <state relative-caret-position="301">
               <caret line="39" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
@@ -310,7 +310,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542119627624" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542120478951" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
@@ -401,7 +401,7 @@
       <workItem from="1541663711751" duration="24294000" />
       <workItem from="1541750702514" duration="16977000" />
       <workItem from="1542028870610" duration="9106000" />
-      <workItem from="1542095858097" duration="19710000" />
+      <workItem from="1542095858097" duration="20449000" />
     </task>
     <task id="LOCAL-00001" summary="Dodanie ExHome1">
       <created>1541759066719</created>
@@ -421,7 +421,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95818000" />
+    <option name="totallyTimeSpent" value="96557000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -788,7 +788,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ObjectProjekt/src/ExDziedziczenie/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
+        <state relative-caret-position="301">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
