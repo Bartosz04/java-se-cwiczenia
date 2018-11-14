@@ -30,6 +30,7 @@ public class Test {
         figures[2] = myTriangle;
 
         double area = 0.0;
+        // polimorfizm
         for (Figure figure : figures){
             area += figure.countArea();
         }

@@ -11,6 +11,14 @@ public class Triangle extends Figure {
         this.h = h;
     }
 
+    public double getC() {
+        return c;
+    }
+
+    public double getH() {
+        return h;
+    }
+
     public double countArea(){
         return  (c*h)/2;
     }
